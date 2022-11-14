@@ -1,11 +1,9 @@
 00#VERS#CLENGTH##: 158331
 00#VERS#LENGTH###: 35042
 00#VERS#URI######: 0685IbnSacidMaghribi.Jughrafiya.Shamela0000463-ara1
-80#VERS#BASED####: https://www.worldcat.org/title/kitab-al-
-    jughrafiya/oclc/717758924?referer=br&ht=edition
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: https://ia802709.us.archive.org/34/items/JughrafyaIbn
-    Saeyd/JughrafyaIbnSaeyd.pdf
+80#VERS#BASED####: https://worldcat.org/en/title/717758924
+80#VERS#COLLATED#: NO_DATA_IN_MTADATA
+80#VERS#LINKS####: https://ia802709.us.archive.org/34/items/JughrafyaIbnSaeyd/JughrafyaIbnSaeyd.pdf
 90#VERS#ANNOTATOR: AQ
 90#VERS#COMMENT##: The pagination of this text is different from the
     edition I used, but other than that it is clear that the text is based
@@ -13,5 +11,6 @@
     corpus are identical. The text is clearly typed. Some headings were
     probably removed during automatic tagging attempt by someone, which I
     inserted back.
+   NOTE OF THE REVIEWER (HRH): Separated body text from the titles.
 90#VERS#DATE#####: 2020-03-03
-90#VERS#ISSUES###: PAGINATION,
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
