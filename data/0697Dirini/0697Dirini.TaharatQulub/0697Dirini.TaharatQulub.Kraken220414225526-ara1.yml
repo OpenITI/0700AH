@@ -1,10 +1,9 @@
-00#VERS#CLENGTH##: 314688
-00#VERS#LENGTH###: 73781
+00#VERS#CLENGTH##: 317396
+00#VERS#LENGTH###: 74341
 00#VERS#URI######: 0697Dirini.TaharatQulub.Kraken220414225526-ara1
-80#VERS#BASED####: NONE
-80#VERS#COLLATED#: NONE
-80#VERS#LINKS####:
-    https://ia800703.us.archive.org/16/items/fadiaz59_hotmail_2/%D8%B7%D9%87%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%AE%D8%B6%D9%88%D8%B9-%D9%84%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%BA%D9%8A%D9%88%D8%A82.pdf
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770969745
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/details/fadiaz59_hotmail_2/mode/2up
 90#VERS#ANNOTATOR:
 90#VERS#COMMENT##: OCRed through Kraken:
     * Kraken version: 3.0.0.0b21.dev6
