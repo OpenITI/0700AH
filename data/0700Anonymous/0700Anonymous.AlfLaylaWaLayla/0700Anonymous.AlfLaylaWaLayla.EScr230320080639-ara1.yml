@@ -9,4 +9,4 @@
     * segmentation model: 1001 (retrained model based on layout-20210711)
     * transcription model: apt-20221130
 90#VERS#DATE#####:
-90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
