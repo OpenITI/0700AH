@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 1256486
-00#VERS#LENGTH###: 307699
+00#VERS#CLENGTH##: 1248495
+00#VERS#LENGTH###: 305887
 00#VERS#URI######: 0693IbnAbiFathIrbili.KashfGhumma.Shia003707Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/754753757
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/754753757
@@ -23,6 +23,9 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0693IbnAbiFathIrbili/0693IbnAbiFathIrbili.KashfGhumma/0693IbnAbiFathIrbili.KashfGhumma.Shia003707Vols-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-
+    clean/data/0693IbnAbiFathIrbili/0693IbnAbiFathIrbili.KashfGhumma/0693IbnAbiFathIrbili.KashfGhumma.Shia003707Vols-
+    ara1.completed
 90#VERS#DATE#####: 2020-08-06
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, PRIMARY_VERSION,
+    CLEANED_VERSION
