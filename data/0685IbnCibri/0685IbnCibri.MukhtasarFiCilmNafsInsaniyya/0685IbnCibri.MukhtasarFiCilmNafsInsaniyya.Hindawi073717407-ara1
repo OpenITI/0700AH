@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "0685IbnCibri.MukhtasarFiCilmNafsInsaniyya.Hindawi73717407",
-    "BookCats": "philosophy",
-    "BookID": "73717407",
-    "BookTitle": "مختصر في علم النفس الإنسانية",
-    "AuthorID": "72915741",
-    "AuthorNam": "ابن العبري",
-    "EditorID": "48081579",
-    "EditorNam": "بولس سباط",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 0685IbnCibri.MukhtasarFiCilmNafsInsaniyya.Hindawi73717407
+#META# Tags: philosophy
+#META# ID: 73717407
+#META# Title: مختصر في علم النفس الإنسانية
+#META# AuthorID: 72915741
+#META# Author: ابن العبري
+#META# EditorID: 48081579
+#META# Editor: بولس سباط
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
