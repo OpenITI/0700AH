@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0685-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q3045396
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan ʿAlī b. Mūsā b. Muḥ. b. ʿAbd al-Malik b. Saʿīd , Andalusian poet, anthologist, historian and geographer, born near Granada in 610/1213": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3351

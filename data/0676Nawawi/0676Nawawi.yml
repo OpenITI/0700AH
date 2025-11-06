@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0676-RAJ-24
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q293571
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "al- Nawawī (or al-Nawāwī ), Muḥyī al-Dīn Abū Zakariyyāʾ Yaḥyā b. S̲h̲araf b. Murī [following Nawawī’s own spelling, Suyūṭī, fol. 53b] b. Ḥasan b. Ḥusayn b. Muḥammad b. D̲j̲umʿa b. Ḥizām al-Ḥizāmī al-Dimas̲h̲ḳī , a S̲h̲āfiʿī jurist, born in Muḥarram 631/October 1233 in Nawā south of Damascus in D̲j̲awlān.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_5858

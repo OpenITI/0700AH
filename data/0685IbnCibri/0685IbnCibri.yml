@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0685-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q380295
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "( Bar Hebraeus , Syriac Bar ʿEbhrāyā ) Gerīghōr ( Yūḥannān ) Abu ’l-Farad̲j̲ , author of a history in Arabic, translator and the last classic in Syriac literature, was born in A.D. 1225-6 at Malatya": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3209

@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: XXXX-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-ʿAbbās Aḥmad b. Muḥammad b. ʿId̲h̲ārī al-Marrākus̲h̲ī , Mag̲h̲ribī historian, of whom all that is known is that he lived in the second half of the 7th/13th century and the first decades of the 8th/14th, that he was ḳāʾid of Fez, and that in the year 712/1312-3 he was still writing his chronicle.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3210

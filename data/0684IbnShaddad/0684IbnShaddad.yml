@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0684-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "ʿIzz al-Dīn Abū ʿAbd Allāh Muḥammad b. ʿAlī al-Ḥalabī , Syrian author of topographical and historical works, born in 613/1217 in Aleppo, died in Cairo in 684/1285. A famous secretary of the chancellery and a skilful administrator, ...": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3367
